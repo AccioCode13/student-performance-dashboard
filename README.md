@@ -1,7 +1,5 @@
 # 📊 Student Performance Analytics Dashboard
 
-![Dashboard Screenshot](https://via.placeholder.com/800x400?text=Dashboard+Preview)
-
 A Streamlit-powered web application for analyzing student habits and academic performance patterns.
 
 ## 🌟 Features
